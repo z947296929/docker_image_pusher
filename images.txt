@@ -9,6 +9,7 @@ nginx
 #apache/skywalking-ui:9.3.0
 #prom/prometheus:latest
 #grafana/grafana:9.2.4
-openjdk:17.0.2-oraclelinux8
+#openjdk:17.0.2-oraclelinux8
+seataio/seata-server:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
