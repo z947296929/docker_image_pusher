@@ -10,6 +10,6 @@ nginx
 #prom/prometheus:latest
 #grafana/grafana:9.2.4
 #openjdk:17.0.2-oraclelinux8
-seataio/seata-server:v2.1.0
+seataio/seata-server:2.0.0
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
