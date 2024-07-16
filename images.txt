@@ -11,8 +11,8 @@ nginx
 #grafana/grafana:9.2.4
 #openjdk:17.0.2-oraclelinux8
 #seataio/seata-server:2.0.0
-#bitnami/kafka:3.6.2
-bitnami/zookeeper:3.8.4
+bitnami/kafka:2.1.1
+#bitnami/zookeeper:3.8.4
 #apache/kafka:3.6.2
 #zookeeper
 #支持指定架构
