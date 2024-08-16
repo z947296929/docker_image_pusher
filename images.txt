@@ -16,4 +16,4 @@ nginx
 #apache/kafka:3.6.2
 zookeeper:3.8.4
 #支持指定架构
-#--platform=linux/arm64 xiaoyaliu/alist
+--platform=linux/arm64/v8
