@@ -1,19 +1,21 @@
-nginx
+#nginx
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #xhofe/alist:latest
 #minio/minio:RELEASE.2023-03-24T21-41-23Z
 #apache/rocketmq:4.9.6
-redis:6.2.7
+#redis:6.2.7
 #apache/skywalking-oap-server:9.3.0
 #apache/skywalking-ui:9.3.0
 #prom/prometheus:latest
 #grafana/grafana:9.2.4
 #openjdk:17.0.2-oraclelinux8
 #seataio/seata-server:2.0.0
-bitnami/kafka:2.1.1
+#bitnami/kafka:2.1.1
 #bitnami/zookeeper:3.8.4
 #apache/kafka:3.6.2
-zookeeper
+#zookeeper
+arm64v8/alpine
+arm64v8/ubuntu
 #支持指定架构
---platform=linux/arm64/v8 xiaoyaliu/alist
+#--platform=linux/arm64/v8 xiaoyaliu/alist
