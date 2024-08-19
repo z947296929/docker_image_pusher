@@ -17,6 +17,6 @@
 #zookeeper
 #arm64v8/alpine
 #arm64v8/ubuntu
-arm64v8/openjdk:17-jdk-slim
+arm64v8/openjdk:8-jdk-slim
 #支持指定架构
 #--platform=linux/arm64/v8 xiaoyaliu/alist
