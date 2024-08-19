@@ -18,8 +18,8 @@
 #arm64v8/alpine
 #arm64v8/ubuntu
 #arm64v8/openjdk:8-jdk-slim
-wyh1791/kafka-arm64v8
-wyh1791/zookeeper-arm64v8
-arm64v8/redis:6.2.7
+#wyh1791/kafka-arm64v8
+#wyh1791/zookeeper-arm64v8
+arm64v8/redis
 #支持指定架构
 #--platform=linux/arm64/v8 xiaoyaliu/alist
