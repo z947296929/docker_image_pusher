@@ -19,8 +19,9 @@
 #arm64v8/ubuntu
 #arm64v8/openjdk:8-jdk-slim
 #ubuntu/kafka
-confluentinc/cp-kafka
-arm64v8/zookeeper
+#confluentinc/cp-kafka
+#arm64v8/zookeeper
 #arm64v8/redis
+tomcat:8.5.99
 #支持指定架构
 #--platform=linux/arm64/v8 xiaoyaliu/alist
