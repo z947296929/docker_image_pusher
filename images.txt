@@ -23,6 +23,7 @@
 #arm64v8/zookeeper
 #arm64v8/redis
 #tomcat:8.5.99
-arm64v8/centos:7
+#arm64v8/centos:7
+onlyoffice/documentserver
 #支持指定架构
 #--platform=linux/arm64/v8 xiaoyaliu/alist
